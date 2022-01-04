@@ -5,19 +5,21 @@
 ### 🖤 About **Me**
 Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 &bull; Online Business Owner 📦<br>
-&bull; Currently Working On Cryptocurrency/Blockchain Based Projects ⛓💲<br>
 &bull; Crypto Trader & Enthusiast 💸<br>
 &bull; Web / Software / Hardware Programmer 🖥<br>
+&bull; Currently Working On Cryptocurrency/Blockchain Based Projects ⛓💲<br>
 
 ### 💻 Technical skills
-&bull; Experienced with C++ / Python<br>
-&bull; Experienced with Cryptocurrencies and Blockchain solutions<br>
-&bull; Web dev experience with HTML / CSS / JavaScript / PHP<br>
-&bull; Intermediate in Java / C# / C<br>
-&bull; Database intermediate in MySQL / SQL / SQLite<br>
+&bull; Experienced with **C++** and **Python**<br>
+&bull; Experienced with **Blockchain Solutions** and **Cryptocurrencies Development**<br>
+&bull; Web Development Experience with **HTML**, **CSS**, **JavaScript** (Backend & Frontend), **PHP**<br>
+&bull; Intermediate in **Java**, **C#**, **C** and **Rust**<br>
+&bull; Intermediate in **Databases** Usage<br>
 
 ### 📩 Have any questions?
-&nbsp; Contact me on: <a href="mailto:dox-github@protonmail.com">dox-github@protonmail.com</a>
+Contact me on:<br>
+&bull;&nbsp;Discord: <a href="https://discordapp.com/users/598511690253860886">Click Here</a><br>
+&bull;&nbsp;E-Mail: <a href="mailto:dox-github@protonmail.com">dox-github@protonmail.com</a>
 
 ### 💳 Want to support me?
 [![](https://i.ibb.co/R67G2Jc/rsz-donate.png)](https://www.paypal.com/donate/?hosted_button_id=DEUL7QC4ZZQSJ)<br>
