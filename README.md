@@ -5,12 +5,12 @@
 ### 🖤 About **Me**
 Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 &bull; Online Business Owner 📦<br>
-&bull; Crypto Trader & Enthusiast 💸<br>
+&bull; Crypto Trader & Enthusiast 💲<br>
 &bull; Web / Software / Hardware Programmer 🖥<br>
-&bull; Currently Working On Cryptocurrency/Blockchain Based Projects ⛓💲<br>
+&bull; Currently Working On Cryptocurrency/Blockchain Based Projects ⛓<br>
 
 ### 💻 Technical skills
-&bull; Experienced with **C++** and **Python**<br>
+&bull; Quite Experienced with **C++** and **Python**<br>
 &bull; Experienced with **Blockchain Solutions** and **Cryptocurrencies Development**<br>
 &bull; Web Development Experience with **HTML**, **CSS**, **JavaScript** (Backend & Frontend), **PHP**<br>
 &bull; Intermediate in **Java**, **C#**, **C** and **Rust**<br>
@@ -19,7 +19,7 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 ### ♻ Current involved into:
 | Project | Info | Occupation |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [Aesthetic Dream](https://www.aestheticdream.gq) | IT / Security / Software Personal Company | CEO / CTO / Creator |
+| [AestheticDream](https://www.aestheticdream.gq) | Security & Software ~ Personal Company | CEO / CTO / Founder |
 
 ### 📩 Have any questions?
 Contact me on:<br>
