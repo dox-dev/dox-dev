@@ -16,6 +16,11 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 &bull; Intermediate in **Java**, **C#**, **C** and **Rust**<br>
 &bull; Intermediate in **Databases** Usage<br>
 
+### ♻ Current involved into:
+| Project | Info | Occupation |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Aesthetic Dream](https://www.aestheticdream.gq) | IT / Security / Software Personal Company | CEO / CTO / Creator |
+
 ### 📩 Have any questions?
 Contact me on:<br>
 &bull;&nbsp;Discord: <a href="https://discordapp.com/users/598511690253860886">Click Here</a><br>
