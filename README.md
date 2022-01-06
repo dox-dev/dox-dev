@@ -19,6 +19,7 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 ### 📩 Have any questions?
 Contact me on:<br>
 &bull;&nbsp;Discord: <a href="https://discordapp.com/users/598511690253860886">Click Here</a><br>
+&bull;&nbsp;Twitter: <a href="https://twitter.com/messages/compose?recipient_id=1247822182731919360">Click Here</a><br>
 &bull;&nbsp;E-Mail: <a href="mailto:dox-github@protonmail.com">dox-github@protonmail.com</a>
 
 ### 💳 Want to support me?
