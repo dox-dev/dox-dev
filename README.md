@@ -16,10 +16,12 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 &bull; Intermediate in **Java**, **C#**, **C** and **Rust**<br>
 &bull; Intermediate in **Databases** Usage<br>
 
-### ♻ Current involved into:
-| Project | Info | Occupation |
+### ♻ Projects involved into:
+| Project | Info | Role |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| [AestheticDream](https://www.aestheticdream.gq) | Security & Software ~ Personal Company | CEO / CTO / Founder |
+| [Selective<br>Games](https://selectivegames.pl) | Game Development | Web Backend Developer |
+| [Aesthetic<br>Dream](https://www.aestheticdream.gq) | Security & Software | CEO / CTO / Founder |
+| [Ethereum<br>Classic API](https://github.com/dox-dev/etc-address-api) | ETC Address API | Founder / Lead Developer |
 
 ### 📩 Have any questions?
 Contact me on:<br>
