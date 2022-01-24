@@ -30,7 +30,6 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 | Project | Info | Role |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Selective<br>Games](https://selectivegames.pl) | Game Development | Web Backend Developer |
-| [Aesthetic<br>Dream](https://www.aestheticdream.gq) | Security & Software | CEO / CTO / Founder |
 | [Duino Coin<br>Wallet Extension](https://github.com/dox-dev/duino-coin-wallet) | Duino Coin Wallet | Founder / Lead Developer |
 | [Ethereum<br>Classic API](https://github.com/dox-dev/etc-address-api) | ETC Address API | Founder / Lead Developer |
 
