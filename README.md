@@ -36,7 +36,7 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Selective<br>Games](https://selectivegames.pl) | Game Development | Web Backend Developer |
 | [Duino Coin<br>Wallet Extension](https://github.com/dox-dev/duino-coin-wallet) | Duino Coin Wallet | Founder / Lead Developer |
-| [SkyExchange](https://www.skyexchange.ga) | Decentralized Duino Coin Exchangr | CEO / Founder / Lead Developer |
+| [SkyExchange](https://www.skyexchange.ga) | Decentralized Duino Coin Exchange | CEO / Founder / Lead Developer |
 | [Ethereum<br>Classic API](https://github.com/dox-dev/etc-address-api) | ETC Address API | Founder / Lead Developer |
 
 ### 📩 Have any questions?
