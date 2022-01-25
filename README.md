@@ -19,7 +19,7 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 &bull; Web / Software / Hardware Programmer 🖥<br>
 &bull; Currently Working On Cryptocurrency/Blockchain Based Projects ⛓<br>
 
-### 🏴 Languages I know
+### 🏴 Languages I speak
 &bull; Polish (native)<br>
 &bull; English (B2)<br>
 &bull; German (A2)
