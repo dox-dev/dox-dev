@@ -10,7 +10,7 @@ d88' `888  d88' `88b  `88b..8P'          d88' `888  d88' `88b  `88.  .8'
 
 ## Hello everyone! I'm Albert 👋
 ### 🎈 Life is limitless.
-#### 🎓 Harvard's CS50 Course <br> ![9%](https://progress-bar.dev/9)
+#### 🎓 Harvard's CS50 Course <sub><sup>⬛️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️</sup></sub>
 ![Albert Głębocki GitHub stats](https://github-readme-stats.vercel.app/api?username=dox-dev&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffc0cb&bg_color=282828&hide_border=1&custom_title=Albert%20Głębocki%20-%20Stats)
 
 ### 🖤 About **Me**
