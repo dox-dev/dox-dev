@@ -28,7 +28,7 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 ### 💻 Technical skills
 &bull; Quite Experienced with **C++** and **Python**<br>
 &bull; Experienced with **Blockchain Solutions** and **Cryptocurrencies Development**<br>
-&bull; Web Development Experience with **HTML**, **CSS**, **JavaScript** (Backend & Frontend), **PHP**<br>
+&bull; Web Development Experience with **HTML**, **CSS** and **JavaScript** (mainly frontend)<br>
 &bull; Intermediate in **Java**, **C#**, **C** and **Rust**<br>
 &bull; Intermediate in **Databases** Usage<br>
 
