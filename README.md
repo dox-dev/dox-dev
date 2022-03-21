@@ -36,6 +36,7 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 | Project | Info | Role |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [sDFT](https://github.com/dox-dev/SubDomains-Finder-Tool) | Subdomains Finder Tool | Founder / Lead Developer |
+| [PyPS](https://github.com/dox-dev/PyPS) | Python Pretty Strings | Founder / Lead Developer |
 | [AestheticDream<br>Media](https://aestheticdream.cc) | Social Media Management Agency | CEO / Founder / Web Developer |
 | [Ethereum<br>Classic API](https://github.com/dox-dev/etc-address-api) | ETC Address API | Founder / Lead Developer |
 | [Selective<br>Games](https://selectivegames.pl) | Game Development | Web Backend Developer |
