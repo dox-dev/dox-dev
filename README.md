@@ -10,8 +10,9 @@ d88' `888  d88' `88b  `88b..8P'          d88' `888  d88' `88b  `88.  .8'
 
 ## Hello everyone! I'm Albert 👋
 ### 🎈 Life is limitless.
-#### 🎓 Harvard's CS50 Course <sub><sup>⬛️⬛️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️</sup></sub>
-![Albert Głębocki GitHub stats](https://github-readme-stats.vercel.app/api?username=dox-dev&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffc0cb&bg_color=282828&hide_border=1&custom_title=Albert%20Głębocki%20-%20Stats)
+#### 🎓 Harvard's CS50 Course Progress&nbsp;&nbsp;&nbsp;<sub><sup>⬛️⬛️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️</sup></sub>
+![Albert Głębocki GitHub stats](https://github-readme-stats.vercel.app/api?username=dox-dev&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffc0cb&bg_color=282828&hide_border=1&custom_title=Albert%20Głębocki%20-%20Stats)<br>
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ### 🖤 About **Me**
 Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
@@ -37,11 +38,11 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [sDFT](https://github.com/dox-dev/SubDomains-Finder-Tool) | Subdomains Finder Tool | Founder / Lead Developer |
 | [PyPS](https://github.com/dox-dev/PyPS) | Python Pretty Strings | Founder / Lead Developer |
-| [AestheticDream<br>Media](https://aestheticdream.cc) | Social Media Management Agency | CEO / Founder / Web Developer |
 | [Ethereum<br>Classic API](https://github.com/dox-dev/etc-address-api) | ETC Address API | Founder / Lead Developer |
+| [AestheticDream<br>Media](https://aestheticdream.cc) | Social Media Management Agency | CEO / Founder / Web Developer |
 | [Selective<br>Games](https://selectivegames.pl) | Game Development | Web Backend Developer |
 | [Duino Coin<br>Wallet Extension](https://github.com/dox-dev/duino-coin-wallet) | Duino Coin Wallet | Founder / Lead Developer |
-| [SkyExchange](https://www.skyexchange.ga) | Decentralized Duino Coin Exchange | CEO / Founder / Lead Developer |
+| [SkyExchange](https://www.skyexchange.ga) | Decentralized Crypto Exchange (Demo) | CEO / Founder / Lead Developer |
 
 ### 📩 Have any questions?
 Contact me on:<br>
@@ -50,5 +51,5 @@ Contact me on:<br>
 &bull;&nbsp;E-Mail: <a href="mailto:hello@aestheticdream.cc">hello@aestheticdream.cc</a>
 
 ### 💳 Want to support me?
-[![](https://i.ibb.co/R67G2Jc/rsz-donate.png)](https://www.paypal.com/donate/?hosted_button_id=DEUL7QC4ZZQSJ)<br>
-[![](https://i.ibb.co/b7dhDc4/cryptodonate.png)](https://dox-dev.github.io/crypto-donate/)
+[![](https://i.ibb.co/ZgXXCcR/image.png)](https://www.paypal.com/donate/?hosted_button_id=DEUL7QC4ZZQSJ)<br>
+[![](https://i.ibb.co/HCqFgbK/image-1.png)](https://dox-dev.github.io/crypto-donate/)
