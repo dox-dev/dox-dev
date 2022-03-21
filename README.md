@@ -10,7 +10,7 @@ d88' `888  d88' `88b  `88b..8P'          d88' `888  d88' `88b  `88.  .8'
 
 ## Hello everyone! I'm Albert 👋
 ### 🎈 Life is limitless.
-#### 🎓 Harvard's CS50 Course Progress&nbsp;&nbsp;&nbsp;<sub><sup>⬛️⬛️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️</sup></sub>
+#### 🎓 Harvard's CS50 Course Progress&nbsp;<sub><sup>⬛️⬛️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️</sup></sub>
 ![Albert Głębocki GitHub stats](https://github-readme-stats.vercel.app/api?username=dox-dev&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffc0cb&bg_color=282828&hide_border=1&custom_title=Albert%20Głębocki%20-%20Stats)<br>
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
