@@ -39,11 +39,12 @@ Hi! I'm Albert. I am 16 years old. I live in Poland and I am:<br>
 | [fisherman](https://github.com/dox-dev/fisherman) | Simple Express.js Server | Founder / Lead Developer |
 | [sDFT](https://github.com/dox-dev/SubDomains-Finder-Tool) | Subdomains Finder Tool | Founder / Lead Developer |
 | [PyPS](https://github.com/dox-dev/PyPS) | Python Pretty Strings | Founder / Lead Developer |
+| [crack MD5](https://github.com/dox-dev/crack-md5) | MD5 Hash Cracking Tool | Founder / Lead Developer |
 | [Ethereum<br>Classic API](https://github.com/dox-dev/etc-address-api) | ETC Address API | Founder / Lead Developer |
 | [AestheticDream<br>Media](https://aestheticdream.cc) | Social Media Management Agency | CEO / Founder / Web Developer |
 | [Selective<br>Games](https://selectivegames.pl) | Game Development | Web Backend Developer |
 | [Duino Coin<br>Wallet Extension](https://github.com/dox-dev/duino-coin-wallet) | Duino Coin Wallet | Founder / Lead Developer |
-| [SkyExchange](https://www.skyexchange.ga) | Decentralized Crypto Exchange (Demo) | CEO / Founder / Lead Developer |
+| [SkyExchange](https://www.skyexchange.ga) | Decentralized Crypto Exchange (Demo) | Founder / Lead Developer |
 
 ### 📩 Have any questions?
 Contact me on:<br>
