@@ -31,5 +31,6 @@ Contact me on:<br>
 &bull;&nbsp;E-Mail: <a href="mailto:hello@aestheticdream.cc">hello@aestheticdream.cc</a>
 
 ### <sub><img width="30px" src="https://d3qhp42p4neron.cloudfront.net/ARCHIVE/animated/3.0/GIF/512/money_with_wings.gif?Expires=1648154866&Signature=VXIqeEyaL5YSuklMuF4rffF~8V~dcDIYeQxknWX1E8OcyaMlsoBg7HapiPtHItBEwQ2qZFWP2PeGGG925IZXR8YCdWCBbCHKe0w21XbGxx5~dkqYs9OrMTAg3-Zey8ofzEbVYDB3G27efCBD6ocjdGBeDQwm~bbCIssQAMoISMA-upgFI3AbdQuwJCzkz62bFW2nKW0KJZPmnaxYICH4d6XpIQLqY~rEeepWEBcIAp14k7ScbFoM~7ujuGtLohKlniIVdkLjUhrHnTfNQjTROoeuguhA4TozMnRFai2xDSby9AYUZuGO5KXax4HIS4z3waHgJ32uRrdPKMlw~M-F0w__&Key-Pair-Id=APKAIRGCVGOY7DOKYTJA"/></sub> Want to support me?
-&nbsp; [![](https://i.ibb.co/ZgXXCcR/image.png)](https://www.paypal.com/donate/?hosted_button_id=DEUL7QC4ZZQSJ)<br>
+&nbsp; [![](https://i.ibb.co/ZgXXCcR/image.png)](https://www.paypal.com/donate/?hosted_button_id=DEUL7QC4ZZQSJ)
 &nbsp; [![](https://i.ibb.co/HCqFgbK/image-1.png)](https://dox-dev.github.io/crypto-donate/)
+
